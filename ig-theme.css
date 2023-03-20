@@ -15,10 +15,10 @@ igc-category-chart {
   --negative-outlines: #ee5879;
   --title-text-color: hsla(var(--ig-gray-900));
   --subtitle-text-color: hsla(var(--ig-gray-700));
-  --x-axis-label-text-color: hsla(var(--ig-gray-700));
+  --x-axis-label-text-color: hsla(var(--ig-gray-500));
   --x-axis-title-text-color: hsla(var(--ig-gray-900));
   --x-axis-stroke: hsla(var(--ig-gray-500));
-  --x-axis-tick-stroke: hsla(var(--ig-gray-500));
+  --x-axis-tick-stroke: hsla(var(--ig-gray-400));
   --y-axis-label-text-color: hsla(var(--ig-gray-700));
   --y-axis-title-text-color: hsla(var(--ig-gray-900));
   --y-axis-major-stroke: hsla(var(--ig-gray-300));
